@@ -1,0 +1,10 @@
+{
+    "table_name": "guilherme",
+    "path":"D:\\Estabelecimentos0\\K3241.K03200Y0.D40608.csv",
+    "server_address":".",
+    "database":"ETLTest",
+    "fieldquote":"\"",
+    "fieldterminator":";",
+	"batch_activate": true,
+	"batch_size": 100000
+}
